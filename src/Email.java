@@ -10,8 +10,8 @@ public class Email {
     private String alternateEmail;
     private int defaultPasswordLength = 10;
     private String companySuffix = "aeycompany.com";
-
     // Constructor to receive the first name and last name
+
     public Email(String firstName, String lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
@@ -69,5 +69,17 @@ public class Email {
     // Change the password
     public void changePassword(String password) {
         this.password = password;
+    }
+
+    public int getMailboxCapacity() {
+        return mailboxCapacity;
+    }
+
+    public String getAlternateEmail() {
+        return alternateEmail;
+    }
+
+    public String getPassword() {
+        return password;
     }
 }
