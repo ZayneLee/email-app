@@ -17,16 +17,16 @@
 ---
 
 ### 👨‍💻 My Projects
-All of my projects are available at [zaynelee.com](https://zaynelee.com).
+All of my projects are available at [zaynelee.com](https://zaynelee.com)
 
 ### 📝 Articles
-I regularly write articles on [zaynelee.tistory.com](https://zaynelee.tistory.com/).
+I regularly write articles on [zaynelee.tistory.com](https://zaynelee.tistory.com/)
 
 ### 📫 Contact Me
-You can reach me at **zaynelee90@gmail.com**.
+You can reach me at **zaynelee90@gmail.com**
 
 ### 📄 My Experiences
-Learn more about my professional experiences on [LinkedIn](https://www.linkedin.com/in/seongdo-lee-a86160278/).
+Learn more about my professional experiences on [LinkedIn](https://www.linkedin.com/in/seongdo-lee-a86160278/)
 
 ---
 
