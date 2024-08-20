@@ -6,8 +6,9 @@
 ### 🔭 Current Project: **Email Application**
 
 <h2>Scenario</h2>
-<p>You are an IT Support Administrator Specialist tasked with creating email accounts for new hires. This application will:</p>
+<p>You are an IT Support Administrator Specialist tasked with creating email accounts for new hires.</p> 
 
+This application will:
 - Generate emails in the format: <code>firstname.lastname@department.company.com</code>
 - Determine the department (sales, development, accounting); if none, leave blank.
 - Generate a random string for a password.
